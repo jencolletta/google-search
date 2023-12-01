@@ -21,7 +21,7 @@ const nextConfig = {
    *
    * @see https://nextjs.org/docs/app/api-reference/next-config-js/basePath
    */
-  basePath: '/nextjs-github-pages',
+  basePath: '/google-search',
 
   /**
    * Disable server-based image optimization. Next.js does not support
