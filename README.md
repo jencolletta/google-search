@@ -1,5 +1,5 @@
 # Search Engine App
-A functional replica of Google's search page that is built using the React and google custom search api.
+A functional replica of Google's search page that is built using google custom search api. Frontend is Javascript (React), CSS, and HTML. Backend is Node.js. Hosted on GitHub pages and deployed using GitHub Actions.
 
 Demo: https://jencolletta.github.io/google-search
 
