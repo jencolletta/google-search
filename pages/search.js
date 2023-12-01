@@ -1,4 +1,4 @@
-import '../styles/search-results.css'
+import '../styles/search.css'
 import Image from 'next/image'
 import Link from 'next/link'
 import React from 'react'

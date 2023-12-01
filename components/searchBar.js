@@ -4,10 +4,6 @@ import { Mic, Search } from '@mui/icons-material/'
 import { Button } from '@mui/material'
 import { useRouter } from 'next/router'
 
-const initialState = {
-  inputTerm: '',
-}
-
 function SearchBar({ term, hideButtons = false }) {
   const [inputTerm, setInputTerm] = useState(term)
   const router = useRouter()
