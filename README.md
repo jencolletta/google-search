@@ -1,3 +1,8 @@
+# Search Engine App
+A functional replica of Google's search page that is built using the React and google custom search api.
+
+Demo: https://jencolletta.github.io/google-search
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started

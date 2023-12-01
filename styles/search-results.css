@@ -1,0 +1,129 @@
+.search {
+  font-family: Roboto, arial, sans-serif;
+}
+
+.search-logo {
+  height: 30px;
+  margin-right: 50px;
+  object-fit: contain;
+  padding-top: 7px;
+}
+.search-header > .search > .search-input {
+  align-items: flex-start;
+  background-color: #fff;
+  border-bottom: 1px solid lightgray;
+  display: flex;
+  height: 24px;
+  margin: 0;
+  margin: unset;
+  max-width: unset;
+  padding-left: 20px;
+  padding-top: 20px;
+  position: sticky;
+  top: 0;
+  width: unset;
+  z-index: 100;
+}
+
+.search-header > .search > .search-input > .search-input-icon {
+  padding-left: 5px;
+}
+
+.search-header-body {
+  margin: 20px 0 0 0;
+  display: flex;
+  padding-left: 0;
+}
+
+.search-header-body > a {
+  margin: 0 10px;
+}
+
+.search-input > .MuiSvgIcon-root {
+  color: #4285f4;
+}
+
+.search-input > input {
+  padding-left: 0;
+}
+
+.search-options {
+  align-items: center;
+  color: grey;
+  display: flex;
+  font-size: 13px;
+  margin-left: 10px;
+  padding-bottom: 5px;
+}
+
+.search-options-right,
+.search-options-left {
+  display: flex;
+}
+.search-options-right a,
+.search-options a {
+  color: grey;
+  text-decoration: none;
+}
+
+.search-options-right {
+  margin-left: 100px;
+}
+
+.search-option {
+  align-items: center;
+  display: flex;
+  margin-right: 20px;
+}
+
+.search-option a {
+  margin-left: 5px;
+}
+
+.search-result {
+  margin-top: 10px;
+}
+.search-result-count {
+  color: #70757a;
+  font-size: 14px;
+  padding-bottom: 0;
+}
+
+.search-results {
+  margin-left: 180px;
+  margin-top: 10px;
+  min-width: 650px;
+}
+.search-result-link {
+  color: #4d5156;
+  font-size: 12px;
+}
+
+.search-result-title {
+  color: #1a0dab;
+  text-decoration: none;
+}
+
+.search-result-title:hover {
+  text-decoration: underline;
+}
+
+.search-result-title > h2 {
+  font-size: 20px;
+  font-weight: 500;
+  padding-top: 0;
+}
+
+.search-result-snippet {
+  color: #4d5156;
+  font-size: 14px;
+  margin-top: 10px;
+  width: 600px;
+}
+
+.search-result-image {
+  height: 20px;
+  margin-right: 10px;
+  object-fit: contain;
+  width: 20px;
+}
